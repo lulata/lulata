@@ -56,9 +56,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lulata&show_icons=true&locale=en" alt="lulata" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulata&" alt="lulata" /></p>
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulata" alt="lulata" /></a> </p>
 </details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulata" alt="lulata" /></a> </p>
+
 
 [website]: https://ddcode.mk/
 [instagram]: https://www.instagram.com/d.atanasoski/
