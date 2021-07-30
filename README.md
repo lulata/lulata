@@ -55,6 +55,8 @@
 
 </details>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulata" alt="lulata" /></a> </p>
+
 [website]: https://ddcode.mk/
 [instagram]: https://www.instagram.com/d.atanasoski/
 [linkedin]: https://www.linkedin.com/in/david-atanasoski-7b4254200/
