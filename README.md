@@ -50,6 +50,14 @@
 - [Trisoro](https://ddcode.mk/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="lulatas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lulata&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://ddcode.mk/
 [instagram]: https://www.instagram.com/d.atanasoski/
 [linkedin]: https://www.linkedin.com/in/david-atanasoski-7b4254200/
