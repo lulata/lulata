@@ -1,7 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lulata&label=Profile%20views&color=0e75b6&style=flat" alt="lulata" /> </p>
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A Full-Stack Developer And A Student</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lulata&label=Profile%20views&color=0e75b6&style=flat" alt="lulata" /> </p>
 
 - 🔭 I just launched my own business website: [ddcode][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -56,7 +57,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lulata&" alt="lulata" /></p>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulata" alt="lulata" /></a> </p>
+  <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulata" alt="lulata" /></a> </p>
 </details>
 
 
