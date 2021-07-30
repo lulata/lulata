@@ -7,10 +7,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lulata Spotify Playing" width="350" />](https://open.spotify.com/user/5cmeeb5yx1w861wpasgp0bbx9)
-
 ### Connect with me:
 
 [<img align="left" alt="ddcode.mk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
