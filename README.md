@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lulata&label=Profile%20views&color=0e75b6&style=flat" alt="lulata" /> </p>
 
-### Hi there, I'm David - aka [Lulata][website] 👋
-
-## I'm a Student, and a Developer!!
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A Full-Stack Developer And A Student</h3>
 
 - 🔭 I just launched my own business website: [ddcode][website]!
 - 🌱 I’m currently learning everything 🤣
