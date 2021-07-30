@@ -54,7 +54,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="lulatas's GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulata&count_private=true)" />
+  <img align="left" alt="lulatas's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulata)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 </details>
 
