@@ -27,7 +27,7 @@
 <h3>📕 Latest Client Projects</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [DD Code](https://ddcode.mk/)
+- [DD Code](https://ddcode.co/)
 - [Trisoro](https://trisoro.mk/)
 <!-- BLOG-POST-LIST:END -->
 
@@ -49,4 +49,4 @@
   
 
 
-[website]: https://ddcode.mk/
+[website]: https://ddcode.co/
