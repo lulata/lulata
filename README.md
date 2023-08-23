@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h2 align="center">A Front-End Engineer And A Software Engineering Student</h2>
-<h3 align="center">My business website: [ddcode][website]!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lulata&label=Profile%20views&color=0e75b6&style=flat" alt="lulata" /> </p>
 
 
 ### Connect with me:
-
+My own business website: [ddcode][website]!
 <p align="left">
-<a href="https://www.linkedin.com/in/davidatanasoskii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-atanasoski-lulata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/davidatanasoskii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-atanasoski-lulata" height="40" width="40" /></a>
+  <a href="https://www.ddcode.co" target="blank"><img align="center" src="https://ddcode.co/ddCode.png" alt="david-atanasoski-lulata" height="40" width="40" /></a>
 </p>
 
 <br />
@@ -31,8 +31,6 @@
 
 </p>
 
-<br />
-
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -45,9 +43,5 @@
 
 
 </details>
-
- 
-  
-
 
 [website]: https://ddcode.co/
